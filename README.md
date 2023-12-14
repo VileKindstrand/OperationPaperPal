@@ -1,6 +1,7 @@
 # OperationPaperPal
  Automatisk toalettpappersrulle
 
+
 Constants and Variables:
 Button Pins: buttonPinTwo is assigned to pin 2 for a button, and buttonStateTwo stores the button state.
 Ultrasonic Sensor Pins: trigPin and echoPin are used for an ultrasonic sensor to measure distance.
